@@ -6,24 +6,24 @@
     "duration": "1h 1m",
     "description": "Hoping to win easy money, a broke and desperate Gi-hun agrees to take part in an enigmatic game.",
     "thumbnailUrl": "https://image.tmdb.org/t/p/w320_and_h180_face/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg",
-    "videoUrl": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-10-1080-p/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E10-1080P.mp4",
+    "videoUrl": "https://archive.org/download/s-1-01-baki-hanma-1/S1%2001%20-%20Baki%20Hanma%20%281%29.mkv",
 
     "rating": {
-      "code": "RATED 18+",
-      "description": "Violence, sex, Strong Language"
+      "code": "RATED 16+",
+      "description": "Violence, Strong Language"
     },
 
     "markers": [
       {
         "type": "SKIP_INTRO",
-        "startMs": 23000,
-        "endMs": 110000,
-        "seekToMs": 108000
+        "startMs": 10000,
+        "endMs": 93000,
+        "seekToMs": 98000
       },
       {
         "type": "NEXT_EPISODE",
-        "startMs": 1284000,
-        "endMs": 1302000,
+        "startMs": 1342000,
+        "endMs": 1359000,
         "seekToMs": 0
       }
     ],
@@ -104,7 +104,7 @@
     "videoUrl": "https://archive.org/download/ramaiya-vastavaiya-1080-p/Ramaiya%20Vastavaiya-1080P.mkv",
 
     "rating": {
-      "code": "RATED 20+",
+      "code": "RATED 13+",
       "description": "Violence, Strong Language"
     },
 
