@@ -2,7 +2,7 @@
   {
     "season": 1,
     "episodeNumber": 1,
-    "title": "Episode 10",
+    "title": "Episode 1",
     "duration": "1h 1m",
     "description": "Hoping to win easy money, a broke and desperate Gi-hun agrees to take part in an enigmatic game.",
     "thumbnailUrl": "https://image.tmdb.org/t/p/w320_and_h180_face/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg",
@@ -13,21 +13,19 @@
       "description": "Violence, sex, Strong Language"
     },
 
-  "markers": [
-  {
-    "type": "SKIP_INTRO",
-    "startMs": 23000,
-    "endMs": 110000,
-    "seekToMs": 108000
-  },
-  {
-    "type": "NEXT_EPISODE",
-    "startMs": 1284000,
-    "endMs": 1302000,
-    "seekToMs": 0
-  }
-]
-]
+    "markers": [
+      {
+        "type": "SKIP_INTRO",
+        "startMs": 23000,
+        "endMs": 110000,
+        "seekToMs": 108000
+      },
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1284000,
+        "endMs": 1302000,
+        "seekToMs": 0
+      }
     ],
 
     "audioTracks": [
