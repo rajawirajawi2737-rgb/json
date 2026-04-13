@@ -13,21 +13,20 @@
       "description": "Violence, sex, Strong Language"
     },
 
-    "markers": [
-      {
-        "type": "SKIP_INTRO",
-        {
-  "type": "SKIP_INTRO",
-  "startMs": 23000,
-  "endMs": 110000,
-  "seekToMs": 108000
-      },
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 1284000,
-        "endMs":1302000,
-        "seekToMs": 0
-      }
+  "markers": [
+  {
+    "type": "SKIP_INTRO",
+    "startMs": 23000,
+    "endMs": 110000,
+    "seekToMs": 108000
+  },
+  {
+    "type": "NEXT_EPISODE",
+    "startMs": 1284000,
+    "endMs": 1302000,
+    "seekToMs": 0
+  }
+]
     ],
 
     "audioTracks": [
