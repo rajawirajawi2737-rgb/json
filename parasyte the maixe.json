@@ -1,0 +1,35 @@
+[
+  {
+    "type": "header",
+    "data": {
+      "media_type": "movie",
+      "id": 101,
+      "title": "Inception",
+      "poster_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+      "overview": "A thief who steals corporate secrets...",
+      "vote_average": 8.8
+    }
+  },
+  {
+    "type": "horizontal_list",
+    "title": "Trending Now",
+    "data": [
+      {
+        "media_type": "movie",
+        "id": 102,
+        "title": "The Dark Knight",
+        "poster_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+        "overview": "Batman raises the stakes...",
+        "vote_average": 9.0
+      },
+      {
+        "media_type": "tv",
+        "id": 201,
+        "name": "Breaking Bad",
+        "poster_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+        "overview": "A high school chemistry teacher...",
+        "vote_average": 9.5
+      }
+    ]
+  }
+]
