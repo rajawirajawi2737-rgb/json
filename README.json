@@ -18,8 +18,8 @@
       {
         "type": "SKIP_INTRO",
         "startMs": 23000,
-        "endMs": 10000,
-        "seekToMs": 128000
+        "endMs": 100000,
+        "seekToMs": 120000
       },
       {
         "type": "NEXT_EPISODE",
