@@ -18,7 +18,7 @@
       {
         "type": "SKIP_INTRO",
         "startMs": 23000,
-        "endMs": 100000,
+        "endMs": 10000,
         "seekToMs": 128000
       },
       {
