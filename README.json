@@ -1,26 +1,36 @@
-[
-  {
-    "season": 2,
-    "episodeNumber": 1,
-    "title": "THE BEGINNING AND THE END",
-    "duration": "1h 6m",
-    "description": "To prepare for the Grand Line, the Straw Hats visit Loguetown, birthplace of the Great Pirate Era.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/yM9oNwkHjmZc0jm3JxXm7HFhKtI.jpg",
-    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2_202604/one%20pice%20season%202%20Ep%201.mkv",
-    "rating": {
-      "code": "13+",
-      "description": "Violence, strong language"
-    },
-    "markers": [],
-    "audioTracks": [
-      {
-        "languageCode": "ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E1-1080P_Converted.mp3",
-        "isOriginal": false
-      }
-    ],
-    "subtitleTracks": []
+{
+  "season": 2,
+  "episodeNumber": 1,
+  "title": "THE BEGINNING AND THE END",
+  "duration": "1h 6m",
+  "description": "To prepare for the Grand Line, the Straw Hats visit Loguetown, birthplace of the Great Pirate Era.",
+  "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/yM9oNwkHjmZc0jm3JxXm7HFhKtI.jpg",
+  "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2_202604/one%20pice%20season%202%20Ep%201.mkv",
+
+  "rating": {
+    "code": "13+",
+    "description": "Violence, strong language"
+  },
+
+  "markers": [
+    {
+      "type": "NEXT_EPISODE",
+      "startMs": 3611000,
+      "endMs": 3652000,
+      "seekToMs": 0
+    }
+  ],
+
+  "audioTracks": [
+    {
+      "languageCode": "ar",
+      "displayName": "Arabic",
+      "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E1-1080P_Converted.mp3",
+      "isOriginal": false
+    }
+  ],
+
+  "subtitleTracks": []
   },
   {
     "season": 2,
