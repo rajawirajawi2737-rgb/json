@@ -7,18 +7,22 @@
     "duration": "1h 6m",
     "description": "To prepare for the Grand Line, the Straw Hats visit Loguetown, birthplace of the Great Pirate Era.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/yM9oNwkHjmZc0jm3JxXm7HFhKtI.jpg",
-    "videoUrl": null,
-
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2_202604/one%20pice%20season%202%20Ep%201.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
-    "audioTracks": [],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E1-1080P_Converted.mp3",
+        "isOriginal": false
+      }
+    ],
     "subtitleTracks": []
   },
-
   {
     "season": 2,
     "episodeNumber": 2,
@@ -26,18 +30,22 @@
     "duration": "1h 4m",
     "description": "When the Merry lands in the belly of a giant whale, Luffy must act fast to save his crew.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/qotAgzhUB4HKjuE8QLNehLPasUr.jpg",
-    "videoUrl": null,
-
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2_202604/one%20pice%20season%202%20Ep%202.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
-    "audioTracks": [],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E2-1080P_Converted.mp3",
+        "isOriginal": false
+      }
+    ],
     "subtitleTracks": []
   },
-
   {
     "season": 2,
     "episodeNumber": 3,
@@ -46,12 +54,10 @@
     "description": "The crew receives a warm welcome, but danger is closer than it seems.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/5qdpa1vzYrkZQR63aRIzF4Ibnbf.jpg",
     "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2/one%20pice%20season%202%20Ep%203.mkv",
-
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
     "audioTracks": [
       {
@@ -63,7 +69,6 @@
     ],
     "subtitleTracks": []
   },
-
   {
     "season": 2,
     "episodeNumber": 4,
@@ -72,12 +77,10 @@
     "description": "On Little Garden, the crew faces giants and unexpected challenges.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/swosbsnrsf6Qm7BXrrAGNiQKKOs.jpg",
     "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2/one%20pice%20season%202%20Ep%204.mkv",
-
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
     "audioTracks": [
       {
@@ -89,21 +92,18 @@
     ],
     "subtitleTracks": []
   },
-
   {
     "season": 2,
     "episodeNumber": 5,
     "title": "WAX ON, WAX OFF",
     "duration": "58m",
-    "description": "The crew is captured by enemies with dangerous abilities.",
+    "description": "The Straw Hats are held captive by dangerous enemies.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/tWKUIBlOqnZdk0AIrS7y12ruO6H.jpg",
     "videoUrl": "https://archive.org/download/one-pice-season-2-ep-8/one%20pice%20season%202%20Ep%205.mkv",
-
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
     "audioTracks": [
       {
@@ -115,7 +115,6 @@
     ],
     "subtitleTracks": []
   },
-
   {
     "season": 2,
     "episodeNumber": 6,
@@ -124,12 +123,10 @@
     "description": "Nami falls ill and the crew must find a cure quickly.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/g4v3WreE3jjaxXhYKxUqUTVoaV2.jpg",
     "videoUrl": "https://archive.org/download/one-pice-season-2-ep-8/one%20pice%20season%202%20Ep%206.mkv",
-
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
     "audioTracks": [
       {
@@ -141,21 +138,18 @@
     ],
     "subtitleTracks": []
   },
-
   {
     "season": 2,
     "episodeNumber": 7,
     "title": "REINDEER SHAMES",
     "duration": "1h 1m",
-    "description": "Dr. Kureha reveals Chopper's tragic past.",
+    "description": "Dr. Kureha tells the heart-wrenching story of Chopper's origins.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/1Rh76Fkk5xuyp03S8ECYSt5U9t6.jpg",
     "videoUrl": "https://archive.org/download/one-pice-season-2-ep-8/one%20pice%20season%202%20Ep%207.mkv",
-
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
     "audioTracks": [
       {
@@ -167,7 +161,6 @@
     ],
     "subtitleTracks": []
   },
-
   {
     "season": 2,
     "episodeNumber": 8,
@@ -176,12 +169,10 @@
     "description": "The crew helps Drum Island against a returning tyrant.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/bxXB5mkKH650mD3xFsWCIPYL32S.jpg",
     "videoUrl": "https://archive.org/download/one-pice-season-2-ep-8/one%20pice%20season%202%20Ep%208.mkv",
-
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-
     "markers": [],
     "audioTracks": [
       {
@@ -194,4 +185,3 @@
     "subtitleTracks": []
   }
 ]
-```
