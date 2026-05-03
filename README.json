@@ -15,15 +15,15 @@
     
   "warning": {
     "type": "WARNING",
-    "startMs": 120000,
-  "endMs": 130000,
+    "startMs": 26000,
+  "endMs":43000,
     "description": "Strong language, Violence,  profanity"
   },
     "markers": [
       {
         "type": "NEXT_EPISODE",
-        "startMs": 26000,
-        "endMs": 43000,
+        "startMs": ,
+        "endMs": ,
         "seekToMs": 0
       }
     ],
