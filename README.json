@@ -12,19 +12,17 @@
       "code": "13+",
       "description": "Violence, strong language"
     },
-    
- },
-  "warning": {
-    "type": "WARNING",
-    "startMs": 46000,
-    "endMs": 53000,
-    "description": "Strong language, Violence, profanity"
-  },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 46000,
+      "endMs": 53000,
+      "description": "Strong language, Violence, profanity"
+    },
     "markers": [
       {
         "type": "NEXT_EPISODE",
-        "startMs":300000 ,
-        "endMs":305000 ,
+        "startMs": 300000,
+        "endMs": 305000,
         "seekToMs": 0
       }
     ],
@@ -57,10 +55,9 @@
       "code": "13+",
       "description": "Violence, strong language"
     },
-
-  "warning": {
-    "description": "Strong language, Violence, Sex, profanity"
-  },
+    "warning": {
+      "description": "Strong language, Violence, Sex, profanity"
+    },
     "markers": [
       {
         "type": "NEXT_EPISODE",
