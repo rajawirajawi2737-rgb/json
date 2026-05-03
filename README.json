@@ -7,22 +7,24 @@
     "duration": "1h 6m",
     "description": "To prepare for the Grand Line, the Straw Hats visit Loguetown, birthplace of the Great Pirate Era.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/yM9oNwkHjmZc0jm3JxXm7HFhKtI.jpg",
-    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2_202604/one%20pice%20season%202%20Ep%201.mp4",
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2_202604/one%20pice%20season%202%20Ep%201.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 46000,
-      "endMs": 53000,
-      "description": "Strong language, Violence, profanity"
-    },
+    
+ "warning": {
+  "type": "WARNING",
+  "startMs": 46000,
+  "endMs": 53000,
+  "description": "Strong language, Violence, profanity
+
+  },
     "markers": [
       {
         "type": "NEXT_EPISODE",
-        "startMs": 300000,
-        "endMs": 305000,
+        "startMs":300000 ,
+        "endMs":305000 ,
         "seekToMs": 0
       }
     ],
@@ -30,13 +32,13 @@
       {
         "languageCode": "ar",
         "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20S2E1.mp3",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E1-1080P_Converted.mp3",
         "isOriginal": false
       },
       {
-        "languageCode": "en",
+        "languageCode": "En",
         "displayName": "English",
-        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/s2e1.mp3",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%201%20in%20English.mp3",
         "isOriginal": true
       }
     ],
@@ -55,9 +57,10 @@
       "code": "13+",
       "description": "Violence, strong language"
     },
-    "warning": {
-      "description": "Strong language, Violence, Sex, profanity"
-    },
+
+  "warning": {
+    "description": "Strong language, Violence, Sex, profanity"
+  },
     "markers": [
       {
         "type": "NEXT_EPISODE",
@@ -70,13 +73,13 @@
       {
         "languageCode": "ar",
         "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-s2e2-ar.mp3",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E2-1080P_Converted.mp3",
         "isOriginal": false
       },
       {
-        "languageCode": "en",
+        "languageCode": "En",
         "displayName": "English",
-        "url": "https://archive.org/download/one-piece-s2e2-en.mp3",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%202%20in%20English.mp3",
         "isOriginal": true
       }
     ],
@@ -90,7 +93,7 @@
     "duration": "1h 4m",
     "description": "The crew receives a warm welcome, but danger is closer than it seems.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/5qdpa1vzYrkZQR63aRIzF4Ibnbf.jpg",
-    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-3/one%20pice%20season%202%20Ep%203.mkv",
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2/one%20pice%20season%202%20Ep%203.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
@@ -103,7 +106,20 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E3-1080P_Converted.mp3",
+        "isOriginal": false
+      },
+      {
+        "languageCode": "En",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%203%20in%20English.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -114,13 +130,33 @@
     "duration": "55m",
     "description": "On Little Garden, the crew faces giants and unexpected challenges.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/swosbsnrsf6Qm7BXrrAGNiQKKOs.jpg",
-    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-4/one%20pice%20season%202%20Ep%204.mkv",
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-2/one%20pice%20season%202%20Ep%204.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-    "markers": [],
-    "audioTracks": [],
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 2867000,
+        "endMs": 2920000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E4-1080P_Converted.mp3",
+        "isOriginal": false
+      },
+      {
+        "languageCode": "En",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%204%20in%20English.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -131,13 +167,33 @@
     "duration": "58m",
     "description": "The Straw Hats are held captive by dangerous enemies.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/tWKUIBlOqnZdk0AIrS7y12ruO6H.jpg",
-    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-5/one%20pice%20season%202%20Ep%205.mkv",
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-8/one%20pice%20season%202%20Ep%205.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-    "markers": [],
-    "audioTracks": [],
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 3062000,
+        "endMs": 3120000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E5-1080P_Converted.mp3",
+        "isOriginal": false
+      },
+      {
+        "languageCode": "En",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%205%20in%20English.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -148,13 +204,33 @@
     "duration": "56m",
     "description": "Nami falls ill and the crew must find a cure quickly.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/g4v3WreE3jjaxXhYKxUqUTVoaV2.jpg",
-    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-6/one%20pice%20season%202%20Ep%206.mkv",
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-8/one%20pice%20season%202%20Ep%206.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-    "markers": [],
-    "audioTracks": [],
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 2909000,
+        "endMs": 2942000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E6-1080P_Converted.mp3",
+        "isOriginal": false
+      },
+      {
+        "languageCode": "En",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%206%20in%20English.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -165,13 +241,33 @@
     "duration": "1h 1m",
     "description": "Dr. Kureha tells the heart-wrenching story of Chopper origins.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/1Rh76Fkk5xuyp03S8ECYSt5U9t6.jpg",
-    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-7/one%20pice%20season%202%20Ep%207.mkv",
+    "videoUrl": "https://archive.org/download/one-pice-season-2-ep-8/one%20pice%20season%202%20Ep%207.mkv",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
     },
-    "markers": [],
-    "audioTracks": [],
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 3262000,
+        "endMs": 3320000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E7-1080P_Converted.mp3",
+        "isOriginal": false
+      },
+      {
+        "languageCode": "En",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%207%20in%20English.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -187,8 +283,28 @@
       "code": "13+",
       "description": "Violence, strong language"
     },
-    "markers": [],
-    "audioTracks": [],
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 3427000,
+        "endMs": 3487000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/one-piece-netflix-s-2-e-1-1080-p-converted/One%20Piece%20%5Bnetflix%5D%5B%D9%85%D8%AF%D8%A8%D9%84%D8%AC%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%5D-S2E8-1080P_Converted.mp3",
+        "isOriginal": false
+      },
+      {
+        "languageCode": "En",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-pice-season-2-episode-1-in-english/one%20pice%20season%202%20episode%208%20in%20English.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   }
 ]
