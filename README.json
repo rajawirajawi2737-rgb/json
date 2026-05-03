@@ -1,4 +1,4 @@
-[
+ [
   {
     "id": "s2e1",
     "season": 2,
@@ -12,13 +12,15 @@
       "code": "13+",
       "description": "Violence, strong language"
     },
- "warning": {
-  "type": "WARNING",
-  "startMs": 46000,
-  "endMs": 53000,
-  "description": "Strong language, Violence, profanity
- }
-    ],
+    
+  "warning": {
+    "type": "WARNING",
+    "startMs": 46000,
+  "endMs":53000,
+    "description": "Strong language, Violence,  profanity"
+  },
+
+    
     "markers": [
       {
         "type": "NEXT_EPISODE",
