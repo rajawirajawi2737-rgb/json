@@ -12,6 +12,10 @@
       "code": "13+",
       "description": "Violence, strong language"
     },
+    
+  "warning": {
+    "description": "Strong language, Violence,  profanity"
+  },
     "markers": [
       {
         "type": "NEXT_EPISODE",
@@ -49,6 +53,10 @@
       "code": "13+",
       "description": "Violence, strong language"
     },
+
+  "warning": {
+    "description": "Strong language, Violence, Sex, profanity"
+  },
     "markers": [
       {
         "type": "NEXT_EPISODE",
