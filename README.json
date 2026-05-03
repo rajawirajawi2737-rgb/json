@@ -15,8 +15,8 @@
     
   "warning": {
     "type": "WARNING",
-    "startMs": 26000,
-  "endMs":43000,
+    "startMs": 46000,
+  "endMs":53000,
     "description": "Strong language, Violence,  profanity"
   },
     "markers": [
