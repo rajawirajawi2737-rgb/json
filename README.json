@@ -7,7 +7,7 @@
     "duration": "1h 6m",
     "description": "To prepare for the Grand Line, the Straw Hats visit Loguetown, birthplace of the Great Pirate Era.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/yM9oNwkHjmZc0jm3JxXm7HFhKtI.jpg",
-    "videoUrl": "https://rr2---sn-p5h-g53s.googlevideo.com/videoplayback?expire=1778162605&ei=TUf8aZSqILLMp-oPnqKd4QI&ip=140.99.206.105&id=o-AG-8bqAD6vpY1kPwSGBglCdlmXULuK2SHj-7lo2h-HJb&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AbKmrwpdyCq-0UMACCdcZZWlrl87aVyspEHlF3ZxNRa1tBe9vLK6qaFTQ764bv512g4X7wR0ykefdi-F&spc=96Xrv1OPMD9D4DfyKZCfFicO9Gf5h7ynSKda2HB6c17gicyyG0qyqlKBRvn_EHC3eL4&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=5931.026&lmt=1775600957807652&fexp=51565116,51565681&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRAIgGg38iIj4mke5Xr_ILRpPRXbkgRdtd3KOR1QjjJDleo8CIGdrPQPvBpgj8-FHVVpn1Q1aHi8PFbNXhJWiSBUqM1Pi&redirect_counter=1&rm=sn-hpa6s7s&rrc=104&req_id=6ebd8c3a03f6a3ee&cms_redirect=yes&cmsv=e&cps=2&ipbypass=yes&met=1778141013,&mh=wC&mip=105.157.185.229&mm=31&mn=sn-p5h-g53s&ms=au&mt=1778140750&mv=u&mvi=2&pl=21&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIga4Sv8pEm9P87a1JsHYToCjTLnbGRmSSTB5XJr0Dbq98CIEm9YXqYfXB-jBwOAiqFRYXrhMNxFwtbJSyLvDEi3vGz",
+    "videoUrl": "https://rr5---sn-p5qs7n6d.googlevideo.com/videoplayback?expire=1778163124&ei=VEn8aZ6TLsn4sfIPwbahqQ8&ip=191.101.188.51&id=o-AKN6tFI3bIPYbc6lRrVmKZLVH81qjTZY5-Tbc-CDrvVA&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AbKmrwprheniVOkYlS2_DP9ADZ279wuMgyq-qQ-gQBeu56yillIv_T6zdBa25UVOAGNaITTDdffzGxyR&spc=96Xrv7PWZE98Ly3sKjd6jGDoEW3WJJ5HPgqmdQagVItenDHtx0der14BO5ueS4BX-1Q&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=393.949&lmt=1743926315455292&fexp=51565116,51565682&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRQIgfLTIHrhqAkyGMjrwsdaJRAS1SoIKl_HO2PWuEOX8UoQCIQDk7JFEJlZs5U-__xYvOEWqCeF0b_BPtAbU8jQp_1omxA%3D%3D&redirect_counter=1&rm=sn-nx5677s&rrc=104&req_id=20a56eff3dd2a3ee&cms_redirect=yes&cmsv=e&cps=0&ipbypass=yes&met=1778141529,&mh=HU&mip=105.157.185.229&mm=31&mn=sn-p5qs7n6d&ms=au&mt=1778141262&mv=u&mvi=5&pl=19&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIhAMa499lBgP-IRl7pK40iQmqGuTGrnUeC7kR-VW4mXwCIAiBb86dv8cZgH_gxefzY8FZL5Hipnl19L8JH3LlzmqaNrQ%3D%3D",
     "rating": {
       "code": "13+",
       "description": "Violence, strong language"
@@ -17,6 +17,12 @@
       "type": "WARNING",
       "startMs": 46000,
       "endMs": 53000,
+      "description": "مشاهذ عري ,ألفض نبيلة "
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 66000,
+      "endMs": 73000,
       "description": "مشاهذ عري ,ألفض نبيلة "
     },
     
