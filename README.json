@@ -19,6 +19,13 @@
       "endMs": 53000,
       "description": "مشاهذ عري ,ألفض نبيلة "
     },
+
+    "warning": {
+      "type": "WARNING",
+      "startMs": 56000,
+      "endMs": 73000,
+      "description": "مشاهذ عري ,ألفض نبيلة "
+    },
    
     "markers": [
       {
