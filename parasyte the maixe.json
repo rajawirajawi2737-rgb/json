@@ -21,8 +21,8 @@
     "markers": [
       {
         "type": "NEXT_EPISODE",
-        "startMs": 1320000,
-        "endMs": 1370000,
+        "startMs": 1285000,
+        "endMs": 1320000,
         "seekToMs": 0
       }
     ],
