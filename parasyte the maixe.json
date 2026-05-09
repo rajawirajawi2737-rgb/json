@@ -1,35 +1,239 @@
 [
   {
-    "type": "header",
-    "data": {
-      "media_type": "movie",
-      "id": 101,
-      "title": "Inception",
-      "poster_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-      "overview": "A thief who steals corporate secrets...",
-      "vote_average": 8.8
-    }
-  },
-  {
-    "type": "horizontal_list",
-    "title": "Trending Now",
-    "data": [
+    "id": "s1e1",
+    "season": 1,
+    "episodeNumber": 1,
+    "title": "1.METAMORPHOSIS",
+    "duration": "23m",
+    "description": "A strange parasite attempts to take over Shinichi Izumi, but fails and ends up trapped in his right hand.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim%20S1E1.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 42000,
+      "endMs": 68000,
+      "description": "Graphic violence and gore"
+    },
+    "markers": [
       {
-        "media_type": "movie",
-        "id": 102,
-        "title": "The Dark Knight",
-        "poster_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-        "overview": "Batman raises the stakes...",
-        "vote_average": 9.0
+        "type": "NEXT_EPISODE",
+        "startMs": 1320000,
+        "endMs": 1370000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "jp",
+        "displayName": "Japanese",
+        "url": "https://yourserver.com/parasyte/audio/s1e1_jp.mp3",
+        "isOriginal": flase 
       },
       {
-        "media_type": "tv",
-        "id": 201,
-        "name": "Breaking Bad",
-        "poster_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-        "overview": "A high school chemistry teacher...",
-        "vote_average": 9.5
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E1-1080P%20%281%29_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://yourserver.com/parasyte/subtitles/s1e1_en.vtt"
       }
     ]
+  },
+  {
+    "id": "s1e2",
+    "season": 1,
+    "episodeNumber": 2,
+    "title": "2.THE DEVIL IN THE FLESH",
+    "duration": "23m",
+    "description": "Shinichi struggles to live normally while hiding the existence of Migi.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim%5D-S1E2.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 51000,
+      "endMs": 76000,
+      "description": "Violence and disturbing scenes"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1310000,
+        "endMs": 1360000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "english",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E2-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e3",
+    "season": 1,
+    "episodeNumber": 3,
+    "title": "3.SYMPOSIUM",
+    "duration": "23m",
+    "description": "Shinichi discovers that parasites are secretly living among humans.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6iBbBJiZfv1RD5dvg6Y8I5BgkDu.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E3.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 47000,
+      "endMs": 72000,
+      "description": "Body horror and violence"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1305000,
+        "endMs": 1350000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+
+        {
+        "languageCode": "en",
+        "displayName": "english",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E3-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e4",
+    "season": 1,
+    "episodeNumber": 4,
+    "title": "4.DISHEVELED HAIR",
+    "duration": "23m",
+    "description": "A dangerous parasite targets Shinichi and his classmates.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/c2ZRdFjZ218IoBwKuTUi8tDynoa.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E4.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 60000,
+      "endMs": 85000,
+      "description": "Graphic violence"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1290000,
+        "endMs": 1340000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+
+       {
+        "languageCode": "en",
+        "displayName": "english",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E4-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e5",
+    "season": 1,
+    "episodeNumber": 5,
+    "title": "5.THE STRANGER",
+    "duration": "23m",
+    "description": "Shinichi begins to notice changes in his own humanity.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/meTyTu5BqCFa9ZxZpWWlAwu5rmh.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E5.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Graphic violence, horror themes"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 52000,
+      "endMs": 73000,
+      "description": "Violence and blood"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1280000,
+        "endMs": 1330000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+
+        {
+        "languageCode": "en",
+        "displayName": "english",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E5-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+  {
+    "id": "s1e6",
+    "season": 1,
+    "episodeNumber": 6,
+    "title": "6.SUN RISES AGAIN",
+    "duration": "23m",
+    "description": "Shinichi faces emotional trauma after a tragic event.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/hL6wciEKcvF5ZjDJRmp2UeYn5v4.jpg",
+    "videoUrl": "https://archive.org/download/parasyte-the-maxim-s-1-e-16/Parasyte%20-the%20maxim-S1E6.mkv",
+    "rating": {
+      "code": "18+",
+      "description": "Violence and emotional trauma"
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 48000,
+      "endMs": 69000,
+      "description": "Emotional trauma and violence"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1270000,
+        "endMs": 1320000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+       {
+        "languageCode": "en",
+        "displayName": "english",
+        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E6-1080P_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
   }
 ]
