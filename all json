@@ -1,2 +1,24 @@
-https://raw.githubusercontent.com/rajawirajawi2737-rgb/json/main/parasyte%20the%20maixe.json
-https://raw.githubusercontent.com/rajawirajawi2737-rgb/json/main/README.json
+
+{
+  "animeList": [
+    {
+      "anime": "Parasyte",
+      "seasons": [
+        {
+          "season": 1,
+          "url": "https://raw.githubusercontent.com/rajawirajawi2737-rgb/json/main/parasyte%20the%20maixe.json"
+        }
+      ]
+    },
+    {
+      "anime": "One Piece",
+      "seasons": [
+       
+        {
+          "season": 2,
+          "url": "https://raw.githubusercontent.com/rajawirajawi2737-rgb/json/main/README.json"
+        }
+      ]
+    }
+  ]
+}
