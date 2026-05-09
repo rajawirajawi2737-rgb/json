@@ -31,7 +31,7 @@
         "languageCode": "jp",
         "displayName": "Japanese",
         "url": "https://yourserver.com/parasyte/audio/s1e1_jp.mp3",
-        "isOriginal": flase 
+        "isOriginal": false 
       },
       {
         "languageCode": "en",
